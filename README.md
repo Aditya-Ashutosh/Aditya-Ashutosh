@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aditya-Ashutosh
-- 👀 I’m interested in computerSc
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python based projects
+- 💞️ I’m looking to collaborate on upskill myself and showcase my efforts here
+- Opensource is my final goal on GitHub 
 - 📫 Reach me at adityaashutosh18@gmail.com
 
 <!---

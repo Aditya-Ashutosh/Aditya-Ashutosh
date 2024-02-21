@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-Ashutosh
-- 💞️ I’m looking to collaborate on upskill myself and showcase my efforts here
+- 💞️ I’m looking to upskill myself and showcase my efforts here
 - Opensource is my final goal on GitHub 
 - 📫 Reach me at adityaashutosh18@gmail.com
 
